@@ -8,4 +8,5 @@ constraints.
 - Used INNER, LEFT, RIGHT, FULL OUTER JOIN queries to explore relationships.
 - Created an index on Borrowings.BookID to optimize queries.
 - Built a view vw_BookBorrowings to easily fetch combined data.
+  
 All Other details is in markdown pdf document above. 
